@@ -9,6 +9,9 @@ The timer updating
 import turtle as trtl
 import random as rand
 import leaderboard as lb
+import turtle as trtl
+import random as rand
+import leaderboard as lb
 input("What is your name?")
 
 
